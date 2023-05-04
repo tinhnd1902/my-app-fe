@@ -1,0 +1,7 @@
+export { default as Login } from './login'
+export { default as Register } from './register'
+export { default as Home } from './home'
+export { default as Personal } from './personal'
+export { default as NewFeed } from './newFeed'
+export { default as ChatRoom } from './chatRoom'
+export { default as NotFound } from './notFound'

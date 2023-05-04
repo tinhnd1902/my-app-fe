@@ -1,0 +1,7 @@
+.wrap-new{
+    background-color: #61dafb;
+}
+
+.wrap-new:nth-child(n+2) {
+    margin-top: 20px;
+}

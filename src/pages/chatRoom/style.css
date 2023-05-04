@@ -1,0 +1,13 @@
+#messages .wrap-li {
+    list-style-type: none;
+}
+
+#messages .wrap-li:nth-child(odd) {
+    background-color: lightskyblue;
+}
+
+#messages .wrap-li:nth-child(even) {
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: pink;
+}
